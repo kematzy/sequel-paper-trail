@@ -1,0 +1,10 @@
+# Include your project-specific ignores in this file
+# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+.bundle/
+.DS_Store
+logs/*.log
+vendor/cache
+public/bower_components
+public/dist
+node_modules
+
